@@ -98,7 +98,8 @@ Dossier principal :
 Exécutable serveur :
 
 ```text
-ArmaReforgerServer
+cd /home/steam/reforger
+./ArmaReforgerServer -config server.json
 ```
 
 ---
