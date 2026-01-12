@@ -257,8 +257,6 @@ Il est prêt pour :
 * Coopération
 * RP moderne
 
-Ce tutoriel est **directement exploitable par une IA vocale**, sans modification.
-
 ---
 
 Fin du tutoriel.
