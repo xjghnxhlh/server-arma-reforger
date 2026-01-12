@@ -1,11 +1,5 @@
 # Tutoriel complet : Créer son propre serveur **Arma Reforger** sur un VPS
 
-Ce tutoriel est **optimisé pour une lecture par une IA vocale** : phrases simples, étapes claires, vocabulaire accessible.
-
-Il explique **pas à pas** comment installer, configurer et lancer un **serveur Arma Reforger dédié** sur un **VPS Linux (Ubuntu 22.04 recommandé)**.
-
----
-
 ## 1. Prérequis
 
 ### 1.1 Configuration VPS recommandée
