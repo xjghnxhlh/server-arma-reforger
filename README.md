@@ -73,7 +73,7 @@ Dans SteamCMD :
 ```bash
 login anonymous
 force_install_dir /home/steam/reforger
-app_update 1874880 validate
+app_update 1874900 validate
 quit
 ```
 
